@@ -6,13 +6,13 @@ A full-stack **real-time collaborative dashboard system** built using the **MERN
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project allows multiple users to collaborate on a shared dashboard where updates are reflected instantly across all connected clients. It is designed to simulate real-world collaborative analytics platforms like Notion dashboards, admin panels, or live monitoring systems.
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 **Frontend:**
 
@@ -32,7 +32,7 @@ This project allows multiple users to collaborate on a shared dashboard where up
 
 ---
 
-## 🎯 Core Features
+##  Core Features
 
 *  Real-time data synchronization across multiple users
 *  Multi-user collaboration on dashboards
