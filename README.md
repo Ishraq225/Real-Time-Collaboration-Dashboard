@@ -159,5 +159,3 @@ Pull requests are welcome. For major changes, please open an issue first.
 This project is open-source and available under the MIT License.
 
 ---
-✅ Generate a **professional GitHub repo structure**
-✅ Or write a **killer resume description for this project**
