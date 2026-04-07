@@ -129,12 +129,6 @@ By building this project, you achieve:
 
 ---
 
-## 📸 Preview (Optional)
-
-> Add screenshots or GIFs of real-time updates here
-
----
-
 ##  Installation
 
 ```bash
